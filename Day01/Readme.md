@@ -1,3 +1,5 @@
+Link - https://github.com/iam-veeramalla/observability-zero-to-hero/blob/main/day-1/readme.md
+
 ### **What is Observability?**
 Observability is the ability to **assess the internal state** of a system based on the data it generates—primarily **logs, metrics, and traces**. This allows engineers to gain insights into system behavior and understand why things are happening, beyond just identifying that something is wrong.
 
