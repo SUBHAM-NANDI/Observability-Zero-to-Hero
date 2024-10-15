@@ -1,3 +1,4 @@
+Link - https://github.com/iam-veeramalla/observability-zero-to-hero/tree/main/day-2
 
 ### **Step 1: Set Up the Prerequisites**
 
